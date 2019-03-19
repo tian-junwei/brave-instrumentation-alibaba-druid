@@ -21,4 +21,4 @@ This is a tracing filter for  [Alibaba Druid 1.1.14 ](https://github.com/alibaba
       </property>
   	</bean>
 
-By default the service name corresponding to your database uses the format `${database}`，
+By default the service name corresponding to your database uses the format `${database}`
