@@ -13,8 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author tianjunwei
- * @date 2019/3/18 18:59
+ *
  */
 @RunWith(MockitoJUnitRunner.class)
 public class TracingStatementFilterTest {
