@@ -4,7 +4,7 @@
 
 This is a tracing filter for  [Alibaba Druid 1.1.14 ](https://github.com/alibaba/druid)，support more databases(mysql、postgresql、oracle、Microsoft、DB2、sqlite etc.) to tracing sql query and can replace brave-instrumentation-mysql.
 
-## Configuration
+## Configuration TracingStatementFilter
 
     <bean id="tracingStatementFilter" class="brave.druid.TracingStatementFilter">
 	<property name="zipkinServiceName" value="dbServer" /></bean>
